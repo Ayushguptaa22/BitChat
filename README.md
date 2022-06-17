@@ -7,3 +7,4 @@ Chats/messages between indiviual users are strings that can be encrypted/decrypt
 
 The use of blockchain here is to provide security to the authenticity of the database.
 
+![bitchat](https://user-images.githubusercontent.com/68814647/174386455-4146462e-ad75-4288-be3c-3f6bcfe98459.png)
