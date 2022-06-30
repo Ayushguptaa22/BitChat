@@ -3,8 +3,8 @@ Blockchain based communication system
 
 Based on the concept of simple blockchain implementation:
 
-Chats/messages between indiviual users are strings that can be encrypted/decrypted and strored on the database.
+Chats/messages between indiviual users are strings that can be encrypted and used to create blocks that form a blockchain.
 
-The use of blockchain here is to provide security to the authenticity of the database.
+The use of blockchain here is to provide security to the authenticity of the communication channel.
 
 ![bitchat](https://user-images.githubusercontent.com/68814647/174386455-4146462e-ad75-4288-be3c-3f6bcfe98459.png)
