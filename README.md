@@ -7,6 +7,10 @@ Chats/messages between indiviual users are strings that can be encrypted and use
 
 The use of blockchain here is to provide security to the authenticity of the communication channel.
 
+![bcs](https://user-images.githubusercontent.com/68814647/179536570-93e87627-ae4a-4e52-9a63-4ecb8dcbb920.png)
+
+
+
 Steps to execute: 
 Run the Server class to setup the server
 Run the client class (can run multiple times to include multiple clients)
